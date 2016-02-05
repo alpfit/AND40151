@@ -12,5 +12,59 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/height_text"
+        android:id="@+id/height_textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+         />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/height"
+        android:width = "100dp"
+        android:layout_alignBaseline="@+id/height_textView"
+        android:layout_toEndOf="@+id/height_textView" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/weight_text"
+        android:id="@+id/weight_textView"
+        android:layout_below="@+id/height_textView"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="39dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/weight"
+        android:width = "100dp"
+        android:layout_alignBaseline="@+id/weight_textView"
+        android:layout_toEndOf="@+id/height_textView" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Compute My BMI"
+        android:id="@+id/compute_button"
+        android:layout_below="@+id/weight"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="80dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/result"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="30dp" />
+
 </RelativeLayout>

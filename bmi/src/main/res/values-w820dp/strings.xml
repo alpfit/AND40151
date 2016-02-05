@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Body Mass Index Calculator</string>
     <string name="height_text">Your Height (cm):</string>
     <string name="weight_text">Your Weight (kg):</string>
     <string name="action_settings">settings</string>
