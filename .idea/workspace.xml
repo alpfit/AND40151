@@ -13,9 +13,6 @@
     <list default="true" id="8c11801c-0ad3-4c08-9a27-0505d9fe3de1" name="Default" comment="Dynamic List View commit">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleflashlight/src/test/java/com/apillay/simpleflashlight/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpletodolist/src/test/java/com/psnotes/apillay/simpletodolist/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleflashlight/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleflashlight/proguard-rules.pro" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleflashlight/simpleflashlight.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpletodolist/simpletodolist.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -25,11 +22,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" afterPath="$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bmi/bmi.iml" afterPath="$PROJECT_DIR$/bmi/bmi.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="AND401.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,16 +64,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DynamicListViewActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DynamicListViewActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simpletodolist/src/main/java/com/psnotes/apillay/simpletodolist/DynamicListViewActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8346056">
+            <state vertical-scroll-proportion="0.0">
               <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
               <folding>
                 <element signature="e#1632#2005#0" expanded="true" />
                 <element signature="e#2004#2005#0" expanded="true" />
                 <element signature="e#2059#2492#0" expanded="true" />
                 <element signature="e#2491#2492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleUnitTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/simpleflashlight/src/test/java/com/apillay/simpleflashlight/ExampleUnitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.605598">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -4893,7 +4897,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455230020532</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Dynamic List View commit">
+      <created>1455230143684</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1455230143684</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -5143,13 +5153,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simpletodolist/src/main/java/com/psnotes/apillay/simpletodolist/DynamicListViewActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8346056">
+        <state vertical-scroll-proportion="0.0">
           <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
           <folding>
             <element signature="e#1632#2005#0" expanded="true" />
             <element signature="e#2004#2005#0" expanded="true" />
             <element signature="e#2059#2492#0" expanded="true" />
             <element signature="e#2491#2492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simpleflashlight/src/test/java/com/apillay/simpleflashlight/ExampleUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.605598">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
