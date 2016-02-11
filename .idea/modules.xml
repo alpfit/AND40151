@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" filepath="$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bmi/bmi.iml" filepath="$PROJECT_DIR$/bmi/bmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleflashlight/simpleflashlight.iml" filepath="$PROJECT_DIR$/simpleflashlight/simpleflashlight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpletodolist/simpletodolist.iml" filepath="$PROJECT_DIR$/simpletodolist/simpletodolist.iml" />
     </modules>
   </component>
 </project>
