@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicListView</string>
+    <string name="add_item_hint">New Item</string>
+</resources>
