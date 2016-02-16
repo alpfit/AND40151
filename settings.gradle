@@ -1,1 +1,1 @@
-include ':app', ':activitylifecycle', ':bmi', ':simpleflashlight', ':simpletodolist'
+include ':app', ':activitylifecycle', ':bmi', ':simpleflashlight', ':simpletodolist', ':contactselectionapplication'
