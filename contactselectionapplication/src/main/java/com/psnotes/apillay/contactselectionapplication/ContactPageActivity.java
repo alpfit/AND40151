@@ -26,8 +26,8 @@ public class ContactPageActivity extends MiBaseActivity implements View.OnClickL
         if (extras != null) {
             contactObject = (ContactObjects)getIntent().getSerializableExtra(OBJETO_CONTACTO);
             contactName.setText(contactObject.getName());
-            contactName.setText("Phone : " + contactObject.getPhone());
-            contactName.setText(contactObject.getWebsite());
+            contactPhone.setText("Phone : " + contactObject.getPhone());
+            contactWebsite.setText(contactObject.getWebsite());
 
             contactPhone.setOnClickListener(this);
             contactWebsite.setOnClickListener(this);
