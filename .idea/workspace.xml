@@ -28,44 +28,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c11801c-0ad3-4c08-9a27-0505d9fe3de1" name="Default" comment="ContactSelection commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/AndroidManifest.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/androidTest/java/com/psnotes/apillay/contactselectionapplication/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactIntentActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactObjects.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactPageActivity.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/test/java/com/psnotes/apillay/contactselectionapplication/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleflashlight/src/test/java/com/apillay/simpleflashlight/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpletodolist/src/test/java/com/psnotes/apillay/simpletodolist/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/MiBaseActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/layout/activity_contact_intent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/layout/activity_contact_page.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/contactselectionapplication.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/menu/menu_main.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/proguard-rules.pro" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleflashlight/simpleflashlight.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpletodolist/simpletodolist.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/values-w820dp/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/main/res/values/styles.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" afterPath="$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AND401.iws" />
@@ -117,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactIntentActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ContactIntentActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactIntentActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6372549">
-              <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1653#2061#0" expanded="true" />
@@ -154,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactPageActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ContactPageActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactPageActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.43464053">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -5174,8 +5149,8 @@
         <option value="$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactObjects.java" />
         <option value="$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/MiBaseActivity.java" />
         <option value="$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactIntentActivity.java" />
-        <option value="$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactPageActivity.java" />
         <option value="$PROJECT_DIR$/contactselectionapplication/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactPageActivity.java" />
       </list>
     </option>
   </component>
@@ -5238,6 +5213,38 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="contactselectionapplication" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AND401" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contactselectionapplication" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AND401" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contactselectionapplication" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contactselectionapplication" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -5595,7 +5602,19 @@
       <option name="project" value="LOCAL" />
       <updated>1455230298250</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ContactSelection commit">
+      <created>1455656590384</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1455656590384</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ContactSelection commit">
+      <created>1455658018391</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1455658018391</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -5652,7 +5671,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="ContactSelection commit" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactIntentActivity.java</url>
+          <line>54</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactPageActivity.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactPageActivity.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -6015,16 +6055,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/MiBaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contactselectionapplication/src/main/res/layout/activity_contact_page.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -6036,16 +6066,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactPageActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contactselectionapplication/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -6054,14 +6074,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/MiBaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactIntentActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6372549">
-          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1653#2061#0" expanded="true" />
             <element signature="e#2060#2061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactselectionapplication/src/main/java/com/psnotes/apillay/contactselectionapplication/ContactPageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43464053">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
