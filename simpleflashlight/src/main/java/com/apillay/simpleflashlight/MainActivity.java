@@ -1,13 +1,15 @@
 package com.apillay.simpleflashlight;
 
 import android.content.pm.PackageManager;
+import android.hardware.Camera;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.CompoundButton;
 import android.widget.Toast;
 import android.widget.ToggleButton;
-import android.hardware.Camera;
+
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     private static final String FLASH_TAG = "FLASH";
@@ -20,9 +22,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ToggleButton flashSwitch = (ToggleButton) findViewById(R.id.flash_switch);
-        hasFlash = getPackageManager().hasSystemFeature(PackageManager.FEATURE_CAMERA_FLASH);
-        if (hasFlash) {
-            getCamera();
+        if (getCamera() && hasFlash) {
             flashSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
                 @Override
                 public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
             });
         }
         else {
-            Toast.makeText(this, R.string.nohay_flash, Toast.LENGTH_SHORT).show();
             flashSwitch.setEnabled(false);
         }
     }
@@ -58,16 +57,26 @@ public class MainActivity extends AppCompatActivity {
         getCamera();
     }
 
-    private void getCamera() {
+    private Boolean getCamera() {
+        List<String> flashModes;
+        Boolean hayCamera = true;
         if (camera == null) {
             try {
                 camera = Camera.open();
                 param = camera.getParameters();
+                flashModes = param.getSupportedFlashModes();
+                hasFlash = getPackageManager().hasSystemFeature(PackageManager.FEATURE_CAMERA_FLASH);
+                if ((flashModes == null && hasFlash) || !hasFlash) {
+                    Toast.makeText(this, R.string.nohay_flash, Toast.LENGTH_SHORT).show();
+                    hasFlash = false;
+                }
             }
-            catch (RuntimeException e) {
+            catch (Exception e) {
                 Log.e(FLASH_TAG, e.getMessage());
+                hayCamera = false;
             }
         }
+        return hayCamera;
     }
 
     private void turnOnOffFlash(boolean isOff) {
