@@ -34,8 +34,12 @@ public class DynamicListViewActivity extends AppCompatActivity {
         add = (Button) findViewById(R.id.addItemButton);
         dynamicListView = (ListView)findViewById(R.id.itemslistView);
         list = new ArrayList<String>();
-        //adapter = new ArrayAdapter<String>(DynamicListViewActivity.this,android.R.layout.simple_list_item_1, list);
-        adapter = new ArrayAdapter<String>(DynamicListViewActivity.this,R.layout.mi_lista_layout, list);
+        adapter = new ArrayAdapter<String>(DynamicListViewActivity.this,android.R.layout.simple_list_item_1, list);
+        //list.add("Item 1");
+        //list.add("Item 2");
+        //list.add("Item 3");
+        //adapter = new ArrayAdapter<String>(DynamicListViewActivity.this,R.layout.my_text_view, list);
+        //adapter = new ArrayAdapter<String>(DynamicListViewActivity.this,R.layout.mi_lista_layout, list);
         dynamicListView.setAdapter(adapter);
 
         add.setOnClickListener(new View.OnClickListener() {

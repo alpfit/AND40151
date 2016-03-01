@@ -8,8 +8,8 @@ import android.view.MenuItem;
  * Created by apillay on 2/15/2016.
  */
 public class MiBaseActivity extends AppCompatActivity {
-    public final String OBJETO_CONTACTO = "OBJETOCONTACTO";
-    public final String VALOR_CONTACTO = "CONTACTO";
+    final String OBJETO_CONTACTO = "OBJETOCONTACTO";
+    final String VALOR_CONTACTO = "CONTACTO";
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

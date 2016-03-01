@@ -3,14 +3,16 @@ package com.apillay.activitylifecycle;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
     private final String TAG = "ANIL";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        TextView tv = (TextView)findViewById(R.id.hello);
+        tv.setText(R.string.start);
         Log.i(TAG, "On Create");
     }
 
@@ -29,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        Log.i(TAG, "On Start");
+        Log.i(TAG, getString(R.string.start));
     }
 
     @Override

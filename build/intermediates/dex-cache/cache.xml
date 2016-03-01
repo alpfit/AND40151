@@ -1,3 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="E:\atc\AND401\customviewindrawer\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\atc\AND401\customviewindrawer\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_2a9c5952ad2f3744cc376441c662f3fa22a87e26.jar" />
+    </item>
+    <item
+        jar="E:\atc\AND401\customviewindrawer\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="E:\atc\AND401\customviewindrawer\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_6803575d6b95a345bed1331b624a79b80a45b4d0.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\atc\AND401\customviewindrawer\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_6afb30d34d8ee0256038e37cf43078b75d29b358.jar" />
+    </item>
+    <item
+        jar="E:\atc\AND401\contactselectionapplication\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\atc\AND401\contactselectionapplication\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_d670084d3f94e08f69c32ffe89b69714c21ddcdf.jar" />
+    </item>
+    <item
+        jar="E:\atc\AND401\contactselectionapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\atc\AND401\contactselectionapplication\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_4066527fa47446c28490799d5d493681a0a4b848.jar" />
+    </item>
+    <item
+        jar="E:\atc\AND401\customviewindrawer\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\atc\AND401\customviewindrawer\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_5fc2bc3b551b32a70a723711a58d58641c0c0cf5.jar" />
+    </item>
+    <item
+        jar="E:\atc\AND401\customviewindrawer\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\atc\AND401\customviewindrawer\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_e9e2924bede35091d19a2ec360b411fd423c8ea3.jar" />
+    </item>
+    <item
+        jar="E:\atc\AND401\contactselectionapplication\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\atc\AND401\contactselectionapplication\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_ae8e1f07bb7b1947848c41d6d18f1c0c82f452b8.jar" />
+    </item>
+
+</items>

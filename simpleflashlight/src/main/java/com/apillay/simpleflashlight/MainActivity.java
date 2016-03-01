@@ -1,12 +1,15 @@
 package com.apillay.simpleflashlight;
 
+import android.app.AlertDialog;
+
+import android.content.DialogInterface;
 import android.content.pm.PackageManager;
 import android.hardware.Camera;
 import android.os.Bundle;
+//import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.CompoundButton;
-import android.widget.Toast;
 import android.widget.ToggleButton;
 
 import java.util.List;
@@ -67,7 +70,17 @@ public class MainActivity extends AppCompatActivity {
                 flashModes = param.getSupportedFlashModes();
                 hasFlash = getPackageManager().hasSystemFeature(PackageManager.FEATURE_CAMERA_FLASH);
                 if ((flashModes == null && hasFlash) || !hasFlash) {
-                    Toast.makeText(this, R.string.nohay_flash, Toast.LENGTH_SHORT).show();
+                    //Toast.makeText(this, R.string.nohay_flash, Toast.LENGTH_SHORT).show();
+                    AlertDialog alert = new AlertDialog.Builder(this).create();
+                    alert.setTitle("Error");
+                    alert.setMessage(this.getString(R.string.nohay_flash));
+                    alert.setButton(DialogInterface.BUTTON_POSITIVE, this.getString(R.string.btn_ok), new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialogInterface, int i) {
+                            finish();
+                        }
+                    });
+                    alert.show();
                     hasFlash = false;
                 }
             }

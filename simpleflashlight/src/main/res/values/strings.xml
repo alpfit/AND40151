@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SimpleFlashLight</string>
     <string name="nohay_flash">Su dispositivo no tiene un Flash</string>
+    <string name="btn_ok">Ok</string>
 </resources>
