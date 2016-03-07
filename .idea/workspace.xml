@@ -9,29 +9,21 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aead250d-6a2f-4c7e-b15c-01b3014c282d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/androidTest/java/com/psnotes/apillay/contactselectionapplication/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customviewdrawerfragment/src/androidTest/java/com/and401/tareas/customviewdrawerfragment/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customviewindrawer/src/androidTest/java/com/psnotes/apillay/customviewindrawer/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialdesigntodolist/src/androidTest/java/com/apillay/materialdesigntodolist/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customviewdrawerfragment/src/main/java/com/and401/tareas/customviewdrawerfragment/BlankFragment.java" />
+    <list default="true" id="aead250d-6a2f-4c7e-b15c-01b3014c282d" name="Default" comment="Wallpaper">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="a31f755e-6727-494f-bc21-ee3f44068e4c" name="Do not Push" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactselectionapplication/src/test/java/com/psnotes/apillay/contactselectionapplication/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customviewdrawerfragment/src/test/java/com/and401/tareas/customviewdrawerfragment/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customviewindrawer/src/test/java/com/psnotes/apillay/customviewindrawer/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialdesigntodolist/src/test/java/com/apillay/materialdesigntodolist/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleflashlight/src/test/java/com/apillay/simpleflashlight/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpletodolist/src/test/java/com/psnotes/apillay/simpletodolist/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customviewdrawerfragment/src/main/res/layout/fragment_blank.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialdesigntodolist/proguard-rules.pro" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customviewdrawerfragment/build.gradle" afterPath="$PROJECT_DIR$/customviewdrawerfragment/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactselectionapplication/contactselectionapplication.iml" afterPath="$PROJECT_DIR$/contactselectionapplication/contactselectionapplication.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customviewdrawerfragment/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/customviewdrawerfragment/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AND401.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -8317,6 +8309,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aead250d-6a2f-4c7e-b15c-01b3014c282d" name="Default" comment="" />
+      <changelist id="a31f755e-6727-494f-bc21-ee3f44068e4c" name="Do not Push" comment="" />
       <created>1457366699231</created>
       <option name="number" value="Default" />
       <updated>1457366699231</updated>
@@ -8327,7 +8320,37 @@
       <option name="project" value="LOCAL" />
       <updated>1457375854691</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Wallpaper">
+      <created>1457375966340</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457375966340</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Wallpaper">
+      <created>1457375986291</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1457375986291</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Wallpaper">
+      <created>1457375998525</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1457375998525</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Wallpaper">
+      <created>1457376011482</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1457376011482</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Wallpaper">
+      <created>1457376059664</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1457376059664</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
