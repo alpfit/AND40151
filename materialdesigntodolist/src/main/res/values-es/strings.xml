@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Design ToDo List es</string>
+    <string name="hello_world">Hola Material Design!!! es</string>
+    <string name="action_setting">Configuracion es</string>
+    <string name="addItemHint">Nuevo Item es</string>
+</resources>

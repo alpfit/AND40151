@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/customviewdrawerfragment/src/main/java/com/and401/tareas/customviewdrawerfragment/AndroidATCView.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/customviewdrawerfragment/src/main/java/com/and401/tareas/customviewdrawerfragment/CustomViewFragment.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/customviewdrawerfragment/src/main/java/com/and401/tareas/customviewdrawerfragment/MainActivity.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/customviewdrawerfragment/src/main/java/com/and401/tareas/customviewdrawerfragment/MainViewFragment.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/customviewdrawerfragment/src/main/java/com/and401/tareas/customviewdrawerfragment/MoreViewsFragment.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/customviewdrawerfragment/src/main/java/com/and401/tareas/customviewdrawerfragment/NavigationDrawerFragment.java" charset="windows-1252" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

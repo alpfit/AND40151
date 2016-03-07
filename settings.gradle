@@ -1,1 +1,1 @@
-include ':app', ':activitylifecycle', ':bmi', ':simpleflashlight', ':simpletodolist', ':contactselectionapplication', ':customviewindrawer', ':customviewdrawerfragment'
+include ':app', ':activitylifecycle', ':bmi', ':simpleflashlight', ':simpletodolist', ':contactselectionapplication', ':customviewindrawer', ':customviewdrawerfragment', ':materialdesigntodolist', ':wallpaper'
