@@ -43,6 +43,9 @@ public class ContactIntentActivity extends MiBaseActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Intent intent = new Intent(ContactIntentActivity.this,ContactPageActivity.class);
                 intent.putExtra(OBJETO_CONTACTO, contactsList.get(i));
+                // clear backstack
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+               // intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivityForResult(intent, REQUEST_CODE);
             }
         });
